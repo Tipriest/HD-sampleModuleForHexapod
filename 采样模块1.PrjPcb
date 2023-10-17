@@ -40,6 +40,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\HD-designRules\SCH Libs\Schlib1.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WTTCOATP
+
+[Document2]
 DocumentPath=SchLib.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -56,7 +73,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EGNWWNTL
 
-[Document2]
+[Document3]
+DocumentPath=..\HD-designRules\PCB Libs\PcbLib1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HTCDVBSD
+
+[Document4]
 DocumentPath=PCBLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -73,7 +107,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUWPIVLT
 
-[Document3]
+[Document5]
 DocumentPath=..\..\嵌入式设计资源\AD元件库\PCB封装库4\4.80-XT30-XT60车模航模电源接口.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -90,7 +124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OKLQMCNU
 
-[Document4]
+[Document6]
 DocumentPath=上层控制板.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,7 +141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NONXJKZR
 
-[Document5]
+[Document7]
 DocumentPath=下层功率板(铝基).SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -124,7 +158,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HQSJXEXP
 
-[Document6]
+[Document8]
 DocumentPath=采样方案.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,40 +174,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DWMMYUZV
-
-[Document7]
-DocumentPath=PCB1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SCQAOVOL
-
-[Document8]
-DocumentPath=PCB2.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NQTNWKRN
 
 [Document9]
 DocumentPath=采样模块1.BomDoc
