@@ -1,11 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Tipriest_RobotLife\HD-sampleModuleForHexapod\HardWare\…œ≤„øÿ÷∆∞Â.PcbDoc
-Date     : 28/10/2023
-Time     : 12:42:16
-
-WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
-   Polygon named: NONET_L01_P039 In net GND On Top Layer
-   Polygon named: NONET_L01_P039 In net GND On Top Layer
+Date     : 29/10/2023
+Time     : 01:55:57
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -14,12 +10,10 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net VCC3.0A Between Pad C21-2(3260mil,2545mil) on Top Layer And Pad U9-6(3834.605mil,3037.205mil) on Top Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
-   Violation between Modified Polygon: Polygon Shelved  (NONET_L01_P039) on Top Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Width Constraint (Min=8mil) (Max=500mil) (Preferred=20mil) (All)
 Rule Violations :0
@@ -49,6 +43,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 2
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
